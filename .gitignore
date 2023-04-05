@@ -1,8 +1,8 @@
 ckpt/
 log/
 dataset
-# experiment/landscape/figs/*
-experiment/
+experiment/landscape/figs/
+experiment/generalization_bound/
 experiment/show/
 log_rebuttal/
 src/trash/

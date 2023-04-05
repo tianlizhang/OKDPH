@@ -1,6 +1,6 @@
 # OKDPH
 
-This repository contains the code for CVPR2023 OKDPH： Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation.
+This repository contains the code for CVPR2023 OKDPH： [Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation](https://arxiv.org/abs/2303.14666).
 
 
 
@@ -57,4 +57,4 @@ bash baseline.sh
 
 * [Loss Landscape](experiment/landscape/resnet32/draw.ipynb)
 * [Sample Limited Date](experiment/sample)
-* [Generalization Bonud](experiment/generalization_bound/)
+
