@@ -56,5 +56,5 @@ bash baseline.sh
 ## Experiment
 
 * [Loss Landscape](experiment/landscape/resnet32/draw.ipynb)
-* [Sample Limited Date](experiment/sample)
+* [Sample Limited Data](experiment/sample)
 
