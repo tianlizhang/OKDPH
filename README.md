@@ -23,7 +23,7 @@ dataset:
 ## Requirements
 
 * PyTorch 1.0 or higher
-* Python 3.6
+* Python 3.6 or higher
 
 
 
@@ -58,3 +58,21 @@ bash baseline.sh
 * [Loss Landscape](experiment/landscape/resnet32/draw.ipynb)
 * [Sample Limited Data](experiment/sample)
 
+
+## Citation
+
+If you find this work useful for your research, please cite our paper:
+
+```
+@inproceedings{zhang2023generalization,
+  title={Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation},
+  author={Zhang, Tianli and Xue, Mengqi and Zhang, Jiangtao and Zhang, Haofei and Wang, Yu and Cheng, Lechao and Song, Jie and Song, Mingli},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20176--20185},
+  year={2023}
+}
+```
+
+## Contact
+
+Please feel free to contact me via email (<zhangtianli@zju.edu.cn>) if you are interested in my research :)
